@@ -1,0 +1,16 @@
+2dd935bb520e8b7cd4fd70244765a2e4 *DESCRIPTION
+e3105977a5aca1c9a396ed9c69907b7e *NAMESPACE
+b0da71b3b4137b33ebc46112227a083e *R/mechkar.R
+e7292da9e40a3228b72131552cd0b7aa *README.md
+f7d5a4e967211e14c85274e79fb4b8f0 *man/MeanCI.Rd
+fa3966263432c9546b1d7aa127ba07ad *man/PropCI.Rd
+e2dfeaa8d06d3b2d264bdd0265a986f8 *man/Table1.Rd
+7b7876a562fe1f0dcb3dd3f082ab9ad2 *man/Table2.Rd
+3620a120c2f4377e0de29fd46a0a8da5 *man/Table2.forestplot.Rd
+50072e68e56778e7521f96227229c6f3 *man/ValidityTest.Rd
+c9f82304a17c83ec50722952bf3fba9c *man/age_adjusted.Rd
+1f5ca68b27be2a1523cd2228b1457853 *man/exploreData.Rd
+92329ea1690f792590fdf95b9ee9791f *man/getMissingness.Rd
+713e209cbee66b81217f434f1c2f5607 *man/getModelCutoffs.Rd
+43faad3161d545ae76c4edee2ef71b1b *man/modelValidity.Rd
+0a9f8fe421fd94b7827f19235341f5a1 *man/train_test.Rd
